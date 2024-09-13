@@ -1,0 +1,28 @@
+
+#wrap {
+	text-align: center;
+	margin: 0 auto;
+	font-family: tahoma;
+	cursor: url('Cursor/cursor.png'), auto;
+}
+
+#nheader{
+	
+    background-color: #3498db;
+	height: 100px;
+	padding: 1px;
+	border: solid 4px black;
+
+}
+
+#npara {
+	padding: 25px;
+	border: solid 1px black;
+	background-image: url('File/raw.jpeg');
+	
+}
+
+.colorOf {
+	color: red;
+	
+}
